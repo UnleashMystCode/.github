@@ -4,9 +4,9 @@
 ---
 
 
-<h2 align="left">
+<b align="left">
   "Crafting robust, simple, and automated Full-Stack solutions."
-</h2>
+</b>
 
 ---
 

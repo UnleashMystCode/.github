@@ -3,9 +3,9 @@
 ---
 
 
-<p align="center">
+<h2 align="left">
   <i>"Crafting robust, simple, and automated Full-Stack solutions."</i>
-</p>
+</h2>
 
 ### 🏛️ **Laboratory Focus**
 - **Full-Stack Engineering:** High-performance web applications.

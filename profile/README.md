@@ -5,7 +5,7 @@
 
 
 <h2 align="left">
-  <i>"Crafting robust, simple, and automated Full-Stack solutions."</i>
+  "Crafting robust, simple, and automated Full-Stack solutions."
 </h2>
 
 ---

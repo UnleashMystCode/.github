@@ -1,5 +1,6 @@
 ### 🦉 UnleashMystCode
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Maintained+by+@AlrafuruNotFound;Official+Web+Portfolio+Laboratory;Unleashing+The+Potential+Of+Code;Full-Stack+Engineering+Journey)](https://git.io/typing-svg)
+
 ---
 
 

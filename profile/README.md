@@ -1,11 +1,14 @@
 ### 🦉 UnleashMystCode
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Maintained+by+@AlrafuruNotFound;Official+Web+Portfolio+Laboratory;Unleashing+The+Potential+Of+Code;Full-Stack+Engineering+Journey)](https://git.io/typing-svg)
+
 ---
 
 
 <h2 align="left">
   <i>"Crafting robust, simple, and automated Full-Stack solutions."</i>
 </h2>
+
+---
 
 ### 🏛️ **Laboratory Focus**
 - **Full-Stack Engineering:** High-performance web applications.
@@ -25,6 +28,7 @@
     <img src="https://skillicons.dev/icons?i=py,laravel,django,nodejs,prisma,supabase,postgres,mysql" />
   </a>
 </p>
+
 ---
 
 <p align="right">
